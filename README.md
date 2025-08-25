@@ -13,4 +13,4 @@ Nosso objetivo é mostrar como a tecnologia pode **reduzir desigualdades educaci
 [📑 Visualizar PDF do relatório](https://github.com/juciiara/educa-livre-impacto-social/blob/main/Relat%C3%B3rio%20de%20Projeto-EducaLivre.pdf)
 
 ## 👥 Equipe
-**Leandro Cavalcante, Ana Paula Bastos, Suzana Marks e Juciara E. Conceição**
+**Leandro Cavalcante, Ana Paula Bastos, Suzana Marks e Juciara Conceição**
